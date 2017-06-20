@@ -1,0 +1,7 @@
+com\SWC\tests\Steps.class
+com\SWC\utilities\ReadPropertyFiles.class
+com\SWC\utilities\BaseFunctions.class
+com\SWC\pages\HomePage.class
+com\SWC\tests\SmokeTest.class
+com\SWC\utilities\ReadExcelFiles.class
+com\SWC\pages\LoginPage.class

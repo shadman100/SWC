@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.SWC.tests.SmokeTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 172.662 s - in com.SWC.tests.SmokeTest
